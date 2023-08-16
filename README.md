@@ -6,13 +6,15 @@ Simply clone into a directory and make executable.
 chmod +X lowhanging.sh
 
 # Usage
+```
 $ ./lowhanging.sh <test> <hostsfiles> 
 
+```
 test types:
-lh_sslscan : Check for SSL & TLS certificates
-lh_sheader : Check for security headers
-lh_hmethods : Check for http methods allowed
-lh_sflags : Check for Secure Flags set on cookies
++ lh_sslscan : Check for SSL & TLS certificates
++ lh_sheader : Check for security headers
++ lh_hmethods : Check for http methods allowed
++ lh_sflags : Check for Secure Flags set on cookies
 
 # Progress
 I plan on adding more functionality to it in the coming days.
