@@ -6,7 +6,7 @@ Simply clone into a directory and make executable.
 chmod +X lowhanging.sh
 
 # Usage
-./lowhanging.sh <test> <hostsfiles> 
+$ ./lowhanging.sh <test> <hostsfiles> 
 
 test types:
 lh_sslscan : Check for SSL & TLS certificates
