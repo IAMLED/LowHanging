@@ -11,7 +11,7 @@ Simply clone into a directory and make executable.
 # Usage
 
 ```
- ./lowhanging.sh <test> <hostsfiles> 
+ ./lowhanging.sh <test> <hosts file> 
 ```
 
 test types:
