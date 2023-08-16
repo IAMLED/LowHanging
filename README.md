@@ -4,7 +4,7 @@ A simple script that makes it easy to test common web application vulnerabilitie
 # Installation
 Simply clone into a directory and make executable.
 ```
-chmod +X lowhanging.sh
+$ chmod +X lowhanging.sh
 
 ```
 
