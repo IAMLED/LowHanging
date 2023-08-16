@@ -3,16 +3,17 @@ A simple script that makes it easy to test common web application vulnerabilitie
 
 # Installation
 Simply clone into a directory and make executable.
-```
-$ chmod +X lowhanging.sh
 
+```
+ chmod +x lowhanging.sh
 ```
 
 # Usage
-```
-$ ./lowhanging.sh <test> <hostsfiles> 
 
 ```
+ ./lowhanging.sh <test> <hostsfiles> 
+```
+
 test types:
 + lh_sslscan : Check for SSL & TLS certificates
 + lh_sheader : Check for security headers
